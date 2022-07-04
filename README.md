@@ -1,1 +1,1 @@
-# Data-science---minor-project
+# Data science minor project
